@@ -1,5 +1,5 @@
-# Develop By : Aravind R
-# Reg No : 212223230019
+## Develop By : GANESH R
+## Reg No : 212222240029
 # Ex.No:1a                      Study of Socket Programming
 
 ## Aim: 
@@ -91,6 +91,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 # Output:
-![output](<Screenshot 2024-09-01 161353.png>)
+![Screenshot 2024-09-08 212913](https://github.com/user-attachments/assets/6f256d33-ed5e-48a4-af7c-41f9f9f11907)
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
